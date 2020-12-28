@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.google-map {
+  width: 90%;
+  height: 60vh;
+  margin-right: auto;
+  margin-left: auto;
+}
+.pin {
+  display: flex;
+  align-items: center;
+  width: 180px;
+  color: var(--main-blue);
+}
+
+.pin-icon {
+  font-size: 4rem;
+}
+.pin-text {
+  font-size: 1.3em;
+}
+.button{
+  width: 90%;
+  height: 60vh;
+  margin:1vh;
+  padding: 20px;
+}
